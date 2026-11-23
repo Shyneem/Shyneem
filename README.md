@@ -9,5 +9,5 @@ Estudiante de último año de **Ingeniería de Ejecución en Computación e Info
 
 ####  Proyectos Destacados
 * **PrestaBanco (Full-Stack + CI/CD):** Sistema de gestión de préstamos desarrollado con Spring Boot, React y MySQL, contenedorizado con Docker Compose y automatizado con Jenkins ([Backend](https://github.com/Shyneem/prestaBanco_backend) | [Frontend](https://github.com/Shyneem/prestabanco_frontend)).
-* **Plataforma Web con DevSecOps:** Desarrollo colaborativo en Python, Vue.js y PostgreSQL con integración continua en GitHub Actions y análisis estático con SonarQube ([Repositorio](https://github.com/Shyneem/DevsecopsPriv.))
+* **Plataforma Web con DevSecOps:** Desarrollo colaborativo en Python, Vue.js y PostgreSQL con integración continua en GitHub Actions y análisis estático con SonarQube ([Repositorio](https://github.com/Shyneem/DevsecopsPriv))
 * **Sistema de Datos Georreferenciados:** Modelamiento y consultas espaciales avanzadas en PostgreSQL/PostGIS ([Repositorio](https://github.com/fabimessi4v/TBD_GRUPO3_LAB2)).
